@@ -53,7 +53,14 @@ local exoticBlueprintIds = {
 	-- t3 sonar
 	"uas0305", -- aeon
 	"urs0305", -- Flood XR
-	"ues0305" -- SP3 - 3000
+	"ues0305", -- SP3 - 3000
+
+	-- exotics added by CheeseBerry
+	"xsa0402", -- Ahwassa
+	"uaa0310", -- Czar
+	"ura0401", -- Soul Ripper
+	"xea0002", -- Defense Satellite
+        "xes0205" -- Shield Boat
 }
 
 
@@ -65,7 +72,7 @@ local exoticAssistBlueprintIds = {
 	"uel0101", --Snoop
 	
     -- mobile shields
-    "xsl0307", --Athanah
+        "xsl0307", --Athanah
 	"uel0307", --Parashield
 	"ual0307", --Asylum
 	

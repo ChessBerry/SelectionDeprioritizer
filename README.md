@@ -1,5 +1,14 @@
 # Selection Deprioritizer
 
+__Changes by CheeseBerry__
+Added the following custom exotics:
+	"xsa0402", -- Ahwassa
+	"uaa0310", -- Czar
+	"ura0401", -- Soul Ripper
+	"xea0002", -- Defense Satellite
+        "xes0205" -- Shield Boat
+
+__Stuff from Base Mod__
 SupCom mod that prevents accidental selection of certain units.
 
 Offers three categories of deselection, all of which can be turned on and off independently with flags, located in

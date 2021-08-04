@@ -5,4 +5,4 @@ description = "Prevents accidental selection of things like mobile T3 artillery.
 author = "partytime, changes by CodingSquirrel and Myxir"
 uid = "bc7731b6-1416-11ea-8d71-362b9e155667"
 exclusive = false
-ui_only =true
+ui_only = true
