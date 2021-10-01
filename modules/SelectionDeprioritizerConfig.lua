@@ -8,9 +8,11 @@ local savedPrefs = nil
 
 
 local exoticBlueprintIds = { 
+	-- sniper bots
+	"xal0305", -- Sprite Striker
+	"xsl0305", -- Usha-Ah
 
-	"xrl0302", -- fire beetle
-
+	-- t3 land siege
 	"ual0304", -- Serenity
 	"url0304", -- Trebuchet
 	"xsl0304", -- Suthanus
@@ -18,11 +20,24 @@ local exoticBlueprintIds = {
 	"dal0310", -- Absolver
 	"xel0306", -- Spearhead
 
-	"xal0305", -- Sprite Striker
-	"xsl0305", -- Usha-Ah
-
-	"dra0202", -- Corsair
+	-- memes
 	"daa0206", -- Mercy
+	"xrl0302", -- fire beetle
+
+	-- t2 bombers
+	"dra0202", -- Corsair
+	"dea0202", -- Janus
+	"xsa0202", -- Notha
+	
+	-- gunships
+	"uea0203", -- Stinger
+	"uea0305", -- Broadsword
+	"xra0105", -- Jester
+	"ura0203", -- Renegade
+	"xra0305", -- Wailer
+	"xsa0203", -- Vulthoo
+	"uaa0203", -- Specter
+	"xaa0305", -- Restorer
 
 	-- torp bombers
 	"uaa0204", -- Skimmer
@@ -47,20 +62,32 @@ local exoticBlueprintIds = {
 	"urs0304", -- Plan B
 	"ues0304", -- Ace
 
-	-- missile ship
+	-- support navy
 	"xas0306", -- Torrent Class
+    "xes0205", -- Shield Boat
 
-	-- t3 sonar
+	-- moving sonars
 	"uas0305", -- aeon
 	"urs0305", -- Flood XR
 	"ues0305", -- SP3 - 3000
+	"xsb3202", -- Shou-esel
 
-	-- exotics added by CheeseBerry
+	-- land experimentals
+	"uel0401", -- Fatboy
+	"url0402", -- MonkeyLord
+	"xrl0403", -- Megalith
+	"ual0401", -- Galactic Colossus
+	"xsl0401", -- Ythotha
+	"xrl0403", -- Megalith
+
+	-- air experimentals
 	"xsa0402", -- Ahwassa
 	"uaa0310", -- Czar
 	"ura0401", -- Soul Ripper
+
+	-- t4 "arty"
 	"xea0002", -- Defense Satellite
-        "xes0205" -- Shield Boat
+	"url0401", -- Scathis
 }
 
 
@@ -70,13 +97,13 @@ local exoticAssistBlueprintIds = {
 	"url0101", --Mole
 	"xsl0101", --Selen
 	"uel0101", --Snoop
-	
+
     -- mobile shields
-        "xsl0307", --Athanah
+    "xsl0307", --Athanah
 	"uel0307", --Parashield
 	"ual0307", --Asylum
-	
-	"url0306" --Deceiver
+
+	"url0306", --Deceiver
 }
 
 

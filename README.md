@@ -1,12 +1,7 @@
 # Selection Deprioritizer
 
 __Changes by CheeseBerry__
-Added the following custom exotics:
-	"xsa0402", -- Ahwassa
-	"uaa0310", -- Czar
-	"ura0401", -- Soul Ripper
-	"xea0002", -- Defense Satellite
-        "xes0205" -- Shield Boat
+Added all gunships, t4 land and air experimentals, t2 bombers, shield boats, the sat and the scathis as custom exotics.
 
 __Stuff from Base Mod__
 SupCom mod that prevents accidental selection of certain units.
