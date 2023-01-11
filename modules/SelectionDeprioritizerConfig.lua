@@ -24,6 +24,12 @@ local exoticBlueprintIds = {
 	"daa0206", -- Mercy
 	"xrl0302", -- fire beetle
 
+	-- t1 bombers
+	"uaa0103", -- Shimmer
+	"uea0103", -- Scorcher
+	"ura0103", -- Zeus
+	"xsa0103", -- Sinnve
+
 	-- t2 bombers
 	"dra0202", -- Corsair
 	"dea0202", -- Janus
