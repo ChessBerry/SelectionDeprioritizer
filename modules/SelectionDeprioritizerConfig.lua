@@ -69,14 +69,14 @@ local exoticBlueprintIds = {
 	"ues0304", -- Ace
 
 	-- support navy
-	"xas0306", -- Torrent Class
-    "xes0205", -- Shield Boat
+	--"xas0306", -- Torrent Class
+    --"xes0205", -- Shield Boat
 
 	-- moving sonars
-	"uas0305", -- aeon
-	"urs0305", -- Flood XR
-	"ues0305", -- SP3 - 3000
-	"xsb3202", -- Shou-esel
+	--"uas0305", -- aeon
+	--"urs0305", -- Flood XR
+	--"ues0305", -- SP3 - 3000
+	--"xsb3202", -- Shou-esel
 
 	-- land experimentals
 	"uel0401", -- Fatboy
